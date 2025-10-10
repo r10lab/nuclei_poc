@@ -35796,6 +35796,7 @@
 ./poc/cve/CVE-2017-1000163_41.yaml
 ./poc/cve/CVE-2017-1000163_42.yaml
 ./poc/cve/CVE-2017-1000163_43.yaml
+./poc/cve/CVE-2017-1000163_44.yaml
 ./poc/cve/CVE-2017-1000163_5.yaml
 ./poc/cve/CVE-2017-1000163_6.yaml
 ./poc/cve/CVE-2017-1000163_7.yaml
@@ -36201,6 +36202,7 @@
 ./poc/cve/CVE-2017-11586_36.yaml
 ./poc/cve/CVE-2017-11586_37.yaml
 ./poc/cve/CVE-2017-11586_38.yaml
+./poc/cve/CVE-2017-11586_39.yaml
 ./poc/cve/CVE-2017-11586_4.yaml
 ./poc/cve/CVE-2017-11586_5.yaml
 ./poc/cve/CVE-2017-11586_6.yaml
@@ -43265,6 +43267,7 @@
 ./poc/cve/CVE-2018-19136_35.yaml
 ./poc/cve/CVE-2018-19136_36.yaml
 ./poc/cve/CVE-2018-19136_37.yaml
+./poc/cve/CVE-2018-19136_38.yaml
 ./poc/cve/CVE-2018-19136_4.yaml
 ./poc/cve/CVE-2018-19136_5.yaml
 ./poc/cve/CVE-2018-19136_5_1.yaml
@@ -49552,6 +49555,7 @@
 ./poc/cve/CVE-2019-18957_33.yaml
 ./poc/cve/CVE-2019-18957_34.yaml
 ./poc/cve/CVE-2019-18957_35.yaml
+./poc/cve/CVE-2019-18957_36.yaml
 ./poc/cve/CVE-2019-18957_4.yaml
 ./poc/cve/CVE-2019-18957_5.yaml
 ./poc/cve/CVE-2019-18957_5_1.yaml
@@ -59802,12 +59806,14 @@
 ./poc/cve/CVE-2020-8656_1.yaml
 ./poc/cve/CVE-2020-8656_2.yaml
 ./poc/cve/CVE-2020-8656_3.yaml
+./poc/cve/CVE-2020-8656_4.yaml
 ./poc/cve/CVE-2020-8657.yaml
 ./poc/cve/CVE-2020-8657_1.yaml
 ./poc/cve/CVE-2020-8657_2.yaml
 ./poc/cve/CVE-2020-8657_3.yaml
 ./poc/cve/CVE-2020-8657_4.yaml
 ./poc/cve/CVE-2020-8657_5.yaml
+./poc/cve/CVE-2020-8657_6.yaml
 ./poc/cve/CVE-2020-8658-0284295106abbcc85275b72b5aa54300.yaml
 ./poc/cve/CVE-2020-8658-htaccess-a21df06c-4e56-4625-ae8b-89c9fc046939.yaml
 ./poc/cve/CVE-2020-8658.yaml
@@ -60286,6 +60292,7 @@
 ./poc/cve/CVE-2020-9480_4.yaml
 ./poc/cve/CVE-2020-9480_5.yaml
 ./poc/cve/CVE-2020-9480_6.yaml
+./poc/cve/CVE-2020-9480_7.yaml
 ./poc/cve/CVE-2020-9483.yaml
 ./poc/cve/CVE-2020-9483_1.yaml
 ./poc/cve/CVE-2020-9483_10.yaml
@@ -88451,6 +88458,7 @@
 ./poc/cve/CVE-2022-25322_3.yaml
 ./poc/cve/CVE-2022-25322_4.yaml
 ./poc/cve/CVE-2022-25322_5.yaml
+./poc/cve/CVE-2022-25322_6.yaml
 ./poc/cve/CVE-2022-25323.yaml
 ./poc/cve/CVE-2022-25323_1.yaml
 ./poc/cve/CVE-2022-25323_10.yaml
@@ -91121,6 +91129,7 @@
 ./poc/cve/CVE-2022-29455_21.yaml
 ./poc/cve/CVE-2022-29455_22.yaml
 ./poc/cve/CVE-2022-29455_23.yaml
+./poc/cve/CVE-2022-29455_24.yaml
 ./poc/cve/CVE-2022-29455_3.yaml
 ./poc/cve/CVE-2022-29455_4.yaml
 ./poc/cve/CVE-2022-29455_5.yaml
@@ -94901,6 +94910,7 @@
 ./poc/cve/CVE-2022-3708_3.yaml
 ./poc/cve/CVE-2022-37122.yaml
 ./poc/cve/CVE-2022-37122_1.yaml
+./poc/cve/CVE-2022-37122_2.yaml
 ./poc/cve/CVE-2022-37153.yaml
 ./poc/cve/CVE-2022-37153_1.yaml
 ./poc/cve/CVE-2022-37153_10.yaml
@@ -95795,6 +95805,7 @@
 ./poc/cve/CVE-2022-38627_2.yaml
 ./poc/cve/CVE-2022-38627_3.yaml
 ./poc/cve/CVE-2022-38627_4.yaml
+./poc/cve/CVE-2022-38627_5.yaml
 ./poc/cve/CVE-2022-38628.yaml
 ./poc/cve/CVE-2022-38628_1.yaml
 ./poc/cve/CVE-2022-38628_2.yaml
@@ -140829,6 +140840,7 @@
 ./poc/cve/CVE-2024-10708-system_dashboard-69aa2287-3d26-43e2-a2d0-4985ed17d096.yaml
 ./poc/cve/CVE-2024-10708.yaml
 ./poc/cve/CVE-2024-10708_1.yaml
+./poc/cve/CVE-2024-10708_2.yaml
 ./poc/cve/CVE-2024-10709-wp_yadisk_files-39e90b51-c5f2-4a9f-ace8-6fbc6749557b.yaml
 ./poc/cve/CVE-2024-10709.yaml
 ./poc/cve/CVE-2024-10709_1.yaml
@@ -152110,6 +152122,7 @@
 ./poc/cve/CVE-2024-28000_6.yaml
 ./poc/cve/CVE-2024-28000_7.yaml
 ./poc/cve/CVE-2024-28000_8.yaml
+./poc/cve/CVE-2024-28000_9.yaml
 ./poc/cve/CVE-2024-28001-37a725cdeb2e43640f8b5b37ee68b599.yaml
 ./poc/cve/CVE-2024-28001-favicon_rotator-4197dd30-bfd8-4d6c-80f5-b13e3844adf8.yaml
 ./poc/cve/CVE-2024-28001.yaml
@@ -179325,6 +179338,7 @@
 ./poc/cve/CVE-2024-9772_1.yaml
 ./poc/cve/CVE-2024-9772_10.yaml
 ./poc/cve/CVE-2024-9772_11.yaml
+./poc/cve/CVE-2024-9772_12.yaml
 ./poc/cve/CVE-2024-9772_2.yaml
 ./poc/cve/CVE-2024-9772_3.yaml
 ./poc/cve/CVE-2024-9772_4.yaml
@@ -196150,6 +196164,7 @@
 ./poc/cve/CVE-2025-7367-strong_testimonials-65395034-0b20-462c-93ee-e755e5c888a4.yaml
 ./poc/cve/CVE-2025-7368-rehub_theme-5f24313e-c246-44f8-b144-d95c55e71456.yaml
 ./poc/cve/CVE-2025-7369-shortcodes_ultimate-5934d1c8-1553-4908-aaab-89d2189eb4cd.yaml
+./poc/cve/CVE-2025-7374-wp_jobhunt-12643dd9-3b5e-45ea-9a64-a5b00c9202c8.yaml
 ./poc/cve/CVE-2025-7384-7564f2c2ee8a320643d49d907617a5ae.yaml
 ./poc/cve/CVE-2025-7384-contact_form_entries-129f810d-ff83-4428-9f98-6a6aa8817783.yaml
 ./poc/cve/CVE-2025-7387-19a9b923f01aa9a2b19ee4d03962d9e6.yaml
@@ -196292,6 +196307,7 @@
 ./poc/cve/CVE-2025-7778-icons_factory-24f31bbf-883f-4903-847a-7bfc3e45654c.yaml
 ./poc/cve/CVE-2025-7780-7b9ffaaccff5c58aeefb7793f53867b7.yaml
 ./poc/cve/CVE-2025-7780-ai_engine-513274bc-3016-4adb-be78-b13c5fae9c03.yaml
+./poc/cve/CVE-2025-7781-wp_jobhunt-0e3575f8-7adc-4546-9f78-bcb2cf3caa2a.yaml
 ./poc/cve/CVE-2025-7808-4d29c05f74ae8439c25a27595324cb8c.yaml
 ./poc/cve/CVE-2025-7808-wp_shopify-9080542f-9c42-439b-b4da-b25f67f2aa97.yaml
 ./poc/cve/CVE-2025-7809-df2e9875b57e843dfda6824301fcd838.yaml
@@ -242991,6 +243007,7 @@
 ./poc/other/community_events-92f3b923-884e-4f61-9bf8-62dfb267a27e.yaml
 ./poc/other/community_events-f8a54a18-64e2-4046-8143-2b5116c4200b.yaml
 ./poc/other/community_yard_sale-629fafeb-5b69-4269-bd98-aaf170d98094.yaml
+./poc/other/commvault-panel.yaml
 ./poc/other/compact_5500r_firmware.yaml
 ./poc/other/compact_admin-463181ae-1355-4aaf-bd8d-3194d72e0dfc.yaml
 ./poc/other/compact_archives-537594d6-9412-4ff1-bf14-bc1164e5358d.yaml
@@ -261215,6 +261232,7 @@
 ./poc/other/hoo-addons-for-elementor.yaml
 ./poc/other/hoo-addons-for-elementor_1.yaml
 ./poc/other/hoo_addons_for_elementor-54255e66-2bc0-4ec4-b482-c27675a84ca1.yaml
+./poc/other/hoobs-panel.yaml
 ./poc/other/hookbot-rat.yaml
 ./poc/other/hookbot-rat_1.yaml
 ./poc/other/hookbot-rat_2.yaml
@@ -364327,7 +364345,9 @@
 ./poc/wordpress/wp_job_portal-ecc87d5f-dba4-40f8-946f-f2634614b579.yaml
 ./poc/wordpress/wp_job_portal-f11ea6b2-1225-42a5-aa7b-260315d0bec5.yaml
 ./poc/wordpress/wp_job_portal-f66457a1-7406-46f9-9a14-4ce6d77c4b84.yaml
+./poc/wordpress/wp_jobhunt-0e3575f8-7adc-4546-9f78-bcb2cf3caa2a.yaml
 ./poc/wordpress/wp_jobhunt-0e61c98d-a6f4-4ac0-b9f9-2b936c030413.yaml
+./poc/wordpress/wp_jobhunt-12643dd9-3b5e-45ea-9a64-a5b00c9202c8.yaml
 ./poc/wordpress/wp_jobhunt-8afe386e-1e4f-4668-8309-6d47dedb008a.yaml
 ./poc/wordpress/wp_jobhunt-91754c4d-a0d0-4d35-a70a-446d2bdf6c73.yaml
 ./poc/wordpress/wp_jobhunt-a3c515e2-dc69-4686-b60f-413542bf2118.yaml
